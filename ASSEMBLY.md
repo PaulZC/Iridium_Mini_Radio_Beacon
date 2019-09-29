@@ -15,7 +15,7 @@ My recommended options are:
 - Material: FR4, 1.55mm
 - Cu layers: 35um
 - Solder stop: both sides, green
-- Marking print: top side, white
+- Marking print: both sides, white
 
 ![Assembly_1](https://github.com/PaulZC/Iridium_Mini_Radio_Beacon/blob/master/img/Assembly_1.JPG)
 
@@ -127,7 +127,7 @@ Screw the antennas onto the SMA connectors.
 
 ### Test the PCB
 
-Test the completed PCB using the [Arduino test code](https://github.com/PaulZC/Iridium_Mini_Radio_Beacon/tree/master/Arduino).
+Test the completed PCB using the [Arduino code](https://github.com/PaulZC/Iridium_Mini_Radio_Beacon/tree/master/Arduino).
 
 ### Secure J1 with Epoxy
 
